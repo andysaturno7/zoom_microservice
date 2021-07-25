@@ -1,0 +1,9 @@
+{
+  "bcrypt": {
+    "saltRounds": 10
+  },
+  "zoom": {
+    "APIKey": "FnVcIY_2RNSfYvBTsd1TFg",
+    "APISecret": "MJWYm9b5WBsf2fIlTgWcztn6J10J7BlLaOG0"
+  }
+}
